@@ -1,0 +1,1 @@
+04-02 23:31:05.121: W/System.err(25716): org.luaj.vm2.LuaError: =(moonscript.loadstring):12 vm error: java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.res.Resources android.content.Context.getResources()' on a null object reference
