@@ -8,7 +8,7 @@ Develop Android apps with MoonScript and LuaJ
 3. [MoonScript Compiler](https://github.com/leafo/moonscript) 
 
 ##Usage
-Create a file called `init.lua` and 
+Create a file called `Moon.lua` and 
 ```lua
 package.preload['lpeg'] = function (...)
     return require "org.moon.mooonlanding.lpeg"   -- this looks for the lpeg Java class in the project directory
