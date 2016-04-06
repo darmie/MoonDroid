@@ -4,9 +4,9 @@ end
 
 activity = ...
 
-local getScript = function(script)
+--[[==[[local getScript = function(script)
   return activity:findResource(script)
-end
+end--]]
 
 local moonscript = require("moonscript.base")
 local parse = require("moonscript.parse")
